@@ -20,7 +20,7 @@
     justify-content: center;
     align-items: center;
     flex-direction: column;
-    border: 2px solid black;
+    border: 2px solid white;
     border-radius: 5px ;
 }
 p{
@@ -41,6 +41,7 @@ button{
     transition: all 0.3s;
     letter-spacing: 1px;
     border-radius: 5px;
+    border:1px solid white;
 
 }
 button:hover{
